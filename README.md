@@ -1,5 +1,5 @@
 # Coresets-in-Dynamic-Geometric-Data-Streams-implementation
-Implementation for paper Coresets in Dynamic Geometric Data Streams
+Implementation for paper [https://dl.acm.org/doi/10.1145/1060590.1060622](Coresets in Dynamic Geometric Data Streams)
 
 
 For future use:
