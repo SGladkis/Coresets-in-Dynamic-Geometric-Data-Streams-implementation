@@ -7,9 +7,13 @@ Finish coreset construction algorithm
 
 K-median https://www.kaggle.com/code/rafaelsaraivacampos/k-medians-clustering
 
-MaxCut
-
 K-means
+
+Experiments on synthetic and real data sets as well as image data sets
+
+----------------------------------------------------------------------------------------
+
+MaxCut
 
 Maximum Weighted Matchings
 
