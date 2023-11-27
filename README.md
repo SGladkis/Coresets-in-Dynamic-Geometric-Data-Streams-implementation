@@ -5,24 +5,12 @@ Implementation for paper [Coresets in Dynamic Geometric Data Streams](https://dl
 
 Tentative To do list:
 
-Visualization of splitting
-
 A Fast k-Means Implementation using Coresets 1137856.1137879.pdf
 
 K-median https://www.kaggle.com/code/rafaelsaraivacampos/k-medians-clustering
 
 K-means
 
-Experiments on synthetic and real data sets as well as image data sets
+Experiments on synthetic and real data sets
 
 ----------------------------------------------------------------------------------------
-
-MaxCut
-
-Maximum Weighted Matchings
-
-Maximum Spanning Tree
-
-Maximum Travelling Saleman
-
-Average Distance
