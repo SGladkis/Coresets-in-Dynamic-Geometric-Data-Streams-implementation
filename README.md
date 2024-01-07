@@ -1,10 +1,6 @@
 # Coresets-in-Dynamic-Geometric-Data-Streams-implementation
 Implementation for paper [Coresets in Dynamic Geometric Data Streams](https://dl.acm.org/doi/10.1145/1060590.1060622)
 
-----------------------------------------------------------------------------------------
-
-Tentative To do list:
-
-K-median https://www.kaggle.com/code/rafaelsaraivacampos/k-medians-clustering
+Includes K-means and K-Medians implementations for blobs, moons and circles datasets, as well as K-means and K-Medians implementations for coreset of each dataset.
 
 ----------------------------------------------------------------------------------------
