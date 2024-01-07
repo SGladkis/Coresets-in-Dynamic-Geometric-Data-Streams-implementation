@@ -1,0 +1,6 @@
+numpy = 1.24.2
+matplotlib
+scikit-learn = 1.3.2
+math
+yellowbrick = 1.5
+pyclustering = 0.10.1.2
